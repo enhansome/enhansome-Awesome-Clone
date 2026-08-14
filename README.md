@@ -191,7 +191,7 @@
 
 | Repository owner                        | Repository                                                                                                | Live Link                    | Stars                                                                                                                                                                                                               |
 | --------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [oldboyxx](https://github.com/oldboyxx) | [jira\_clone](https://github.com/oldboyxx/jira_clone) ⭐ 11,057 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 | <https://jira.ivorreic.com/> | [![GitHub stars](https://img.shields.io/github/stars/oldboyxx/jira_clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/oldboyxx/jira_clone) ⭐ 11,057 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 |
+| [oldboyxx](https://github.com/oldboyxx) | [jira\_clone](https://github.com/oldboyxx/jira_clone) ⭐ 11,056 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 | <https://jira.ivorreic.com/> | [![GitHub stars](https://img.shields.io/github/stars/oldboyxx/jira_clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/oldboyxx/jira_clone) ⭐ 11,056 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 |
 
 ***
 
@@ -251,7 +251,7 @@
 
 [Back To Top ↑](#table-of-contents)
 
-* [30-days-of-react](https://github.com/fullstackreact/30-days-of-react) ⭐ 2,250 | 🐛 157 | 🌐 JavaScript | 📅 2023-10-09
+* [30-days-of-react](https://github.com/fullstackreact/30-days-of-react) ⭐ 2,249 | 🐛 157 | 🌐 JavaScript | 📅 2023-10-09
 
 ## FAQ
 
@@ -273,4 +273,4 @@ read [contributing.md](contributing.md) before make any changes.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
