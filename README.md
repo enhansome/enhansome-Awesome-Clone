@@ -75,7 +75,7 @@
 
 | Repository owner                                        | Repository                                                                                                                      | Live Link                                | Stars                                                                                                                                                                                                                                        |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [SumitJadiya](https://github.com/SumitJadiya)           | [amazon-clone-react](https://github.com/SumitJadiya/amazon-clone-react) ⭐ 22 \| 🐛 0 \| 🌐 JavaScript \| 📅 2020-11-29          | <https://clone-36782.web.app/>           | [![GitHub stars](https://img.shields.io/github/stars/SumitJadiya/amazon-clone-react.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/SumitJadiya/amazon-clone-react) ⭐ 22 \| 🐛 0 \| 🌐 JavaScript \| 📅 2020-11-29         |
+| [SumitJadiya](https://github.com/SumitJadiya)           | [amazon-clone-react](https://github.com/SumitJadiya/amazon-clone-react) ⭐ 21 \| 🐛 0 \| 🌐 JavaScript \| 📅 2020-11-29          | <https://clone-36782.web.app/>           | [![GitHub stars](https://img.shields.io/github/stars/SumitJadiya/amazon-clone-react.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/SumitJadiya/amazon-clone-react) ⭐ 21 \| 🐛 0 \| 🌐 JavaScript \| 📅 2020-11-29         |
 | [wasim15185](https://github.com/wasim15185)             | [Amazon-Clone-PERN-stack](https://github.com/wasim15185/Amazon-Clone-PERN-stack) ⭐ 36 \| 🐛 0 \| 🌐 JavaScript \| 📅 2021-02-18 | <https://amazon-clone-pern.netlify.app/> | [![GitHub stars](https://img.shields.io/github/stars/wasim15185/Amazon-Clone-PERN-stack.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/wasim15185/Amazon-Clone-PERN-stack) ⭐ 36 \| 🐛 0 \| 🌐 JavaScript \| 📅 2021-02-18 |
 | [atharvadeosthale](https://github.com/atharvadeosthale) | [amazon-clone](https://github.com/atharvadeosthale/amazon-clone) ⭐ 22 \| 🐛 1 \| 🌐 JavaScript \| 📅 2022-05-13                 | <https://amz-clone-b9eab.web.app/>       | [![GitHub stars](https://img.shields.io/github/stars/atharvadeosthale/amazon-clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/atharvadeosthale/amazon-clone) ⭐ 22 \| 🐛 1 \| 🌐 JavaScript \| 📅 2022-05-13           |
 
@@ -251,7 +251,7 @@
 
 [Back To Top ↑](#table-of-contents)
 
-* [30-days-of-react](https://github.com/fullstackreact/30-days-of-react) ⭐ 2,250 | 🐛 157 | 🌐 JavaScript | 📅 2023-10-09
+* [30-days-of-react](https://github.com/fullstackreact/30-days-of-react) ⭐ 2,251 | 🐛 157 | 🌐 JavaScript | 📅 2023-10-09
 
 ## FAQ
 
@@ -273,4 +273,4 @@ read [contributing.md](contributing.md) before make any changes.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
