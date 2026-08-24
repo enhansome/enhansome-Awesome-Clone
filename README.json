@@ -1,7 +1,680 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "manikandanraji",
+              "description": "youtubeclone-frontend https://utubeclone.netlify.app/",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 277494017,
+                "language": "JavaScript",
+                "last_commit": "2022-06-10T14:29:58Z",
+                "owner": "manikandanraji",
+                "repo": "youtubeclone-frontend",
+                "stars": 1426
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "productioncoder",
+              "description": "youtube-react",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146862159,
+                "language": "JavaScript",
+                "last_commit": "2023-05-13T10:58:23Z",
+                "owner": "jangbl",
+                "repo": "youtube-react",
+                "stars": 571
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kevinahn7",
+              "description": "youtube-clone https://youtube-clone.netlify.app/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150497694,
+                "language": "JavaScript",
+                "last_commit": "2019-01-15T03:45:45Z",
+                "owner": "kevinahn7",
+                "repo": "youtube-clone",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ebinxavier",
+              "description": "youtube https://ebinxavier.github.io/youtube/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 301492171,
+                "language": "JavaScript",
+                "last_commit": "2024-02-28T13:48:42Z",
+                "owner": "ebinxavier",
+                "repo": "youtube",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React YouTube"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "darwin619",
+              "description": "Netflix-Clone https://netflix-clone-by-shivam.netlify.app/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201765210,
+                "language": "JavaScript",
+                "last_commit": "2022-08-14T18:42:54Z",
+                "owner": "darwin619",
+                "repo": "Netflix-Clone",
+                "stars": 126
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azazel5",
+              "description": "NetflixClone https://azazel5.github.io/NetflixClone/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 279451977,
+                "language": "JavaScript",
+                "last_commit": "2023-01-26T23:47:22Z",
+                "owner": "Azazel5",
+                "repo": "NetflixClone",
+                "stars": 123
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ariopratomo",
+              "description": "netflix-clone https://netflix-clone-e23d2.web.app/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282902246,
+                "language": "JavaScript",
+                "last_commit": "2026-06-22T01:26:08Z",
+                "owner": "ariopratomo",
+                "repo": "netflix-clone",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dodo9670",
+              "description": "movies-database http://movies-database.surge.sh/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162608717,
+                "language": "JavaScript",
+                "last_commit": "2022-11-07T13:10:50Z",
+                "owner": "dmorozin",
+                "repo": "movies-database",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "diogo405",
+              "description": "joeflix https://joeflix.netlify.app/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 299529917,
+                "language": "JavaScript",
+                "last_commit": "2020-10-02T06:36:25Z",
+                "owner": "diogo405",
+                "repo": "joeflix",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Netflix"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SumitJadiya",
+              "description": "amazon-clone-react https://clone-36782.web.app/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290830266,
+                "language": "JavaScript",
+                "last_commit": "2020-11-29T17:45:17Z",
+                "owner": "SumitJadiya",
+                "repo": "amazon-clone-react",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wasim15185",
+              "description": "Amazon-Clone-PERN-stack https://amazon-clone-pern.netlify.app/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 335397216,
+                "language": "JavaScript",
+                "last_commit": "2021-02-18T09:59:16Z",
+                "owner": "wasim15185",
+                "repo": "Amazon-Clone-PERN-stack",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "atharvadeosthale",
+              "description": "amazon-clone https://amz-clone-b9eab.web.app/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 294100043,
+                "language": "JavaScript",
+                "last_commit": "2022-05-13T07:16:58Z",
+                "owner": "atharvadeosthale",
+                "repo": "amazon-clone",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Amazon"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aidangadberry",
+              "description": "facenovel https://facenovel.herokuapp.com/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143099504,
+                "language": "JavaScript",
+                "last_commit": "2024-02-25T22:58:49Z",
+                "owner": "aidangadberry",
+                "repo": "facenovel",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "matheus-beck",
+              "description": "react-facebook-clone https://matheus-beck.github.io/react-facebook-clone/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232450762,
+                "language": "JavaScript",
+                "last_commit": "2023-01-05T04:56:24Z",
+                "owner": "matheus-beck",
+                "repo": "react-facebook-clone",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Meenakshi-Anand",
+              "description": "Facebook-Clone https://connectfbclone.herokuapp.com",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135381017,
+                "language": "JavaScript",
+                "last_commit": "2018-07-31T23:15:53Z",
+                "owner": "Meenakshi-Anand",
+                "repo": "Facebook-Clone",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Facebook"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jalbertsr",
+              "description": "react-twitter-clone https://github-twitter-41292.firebaseapp.com/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103395274,
+                "language": "JavaScript",
+                "last_commit": "2023-03-26T19:47:07Z",
+                "owner": "jalbertsr",
+                "repo": "react-twitter-clone",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rafaelalmeidatk",
+              "description": "twitter-fullstack-clone https://twitter.rafaelalmeidatk.now.sh/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 185002705,
+                "language": "JavaScript",
+                "last_commit": "2020-03-31T11:30:15Z",
+                "owner": "rafaelalmeidatk",
+                "repo": "twitter-fullstack-clone",
+                "stars": 121
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eltonlazzarin",
+              "description": "twitter-clone-reactjs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 277973900,
+                "language": "TypeScript",
+                "last_commit": "2020-08-17T17:15:06Z",
+                "owner": "eltonlazzarin",
+                "repo": "twitter-clone-reactjs",
+                "stars": 42
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Twitter"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "karlhadwen",
+              "description": "todoist",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196885342,
+                "language": "JavaScript",
+                "last_commit": "2023-12-07T17:12:00Z",
+                "owner": "karlhadwen",
+                "repo": "todoist",
+                "stars": 1391
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Todoist"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "benawad",
+              "description": "fullstack-graphql-airbnb-clone",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136923813,
+                "language": "TypeScript",
+                "last_commit": "2023-04-15T05:08:52Z",
+                "owner": "benawad",
+                "repo": "fullstack-graphql-airbnb-clone",
+                "stars": 1696
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mrkchoi",
+              "description": "airbnb_clone https://aerbnb.herokuapp.com",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194017798,
+                "language": "JavaScript",
+                "last_commit": "2023-11-06T17:43:40Z",
+                "owner": "mrkchoi",
+                "repo": "airbnb_clone",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shakib448",
+              "description": "react-airbnb-clone https://airbnb-clone-d9325.firebaseapp.com/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293526646,
+                "language": "JavaScript",
+                "last_commit": "2020-09-07T12:51:28Z",
+                "owner": "Shakib448",
+                "repo": "react-airbnb-clone",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "selam-weldu",
+              "description": "airbnb_clone http://waterbnbb.herokuapp.com/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194017916,
+                "language": "JavaScript",
+                "last_commit": "2023-01-19T13:37:00Z",
+                "owner": "selam-weldu",
+                "repo": "airbnb_clone",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VistritPandey",
+              "description": "Airbnb-Clone https://vistrit-airbnb.web.app/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 309249726,
+                "language": "JavaScript",
+                "last_commit": "2020-11-02T09:29:54Z",
+                "owner": "VistritPandey",
+                "repo": "Airbnb-Clone",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sashitaghimire",
+              "description": "Airbnb_clone https://airbnb-clone-d5975.web.app/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293240074,
+                "language": "JavaScript",
+                "last_commit": "2020-09-18T15:24:20Z",
+                "owner": "sashitaghimire",
+                "repo": "Airbnb_Clone",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Airbnb"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ericellb",
+              "description": "React-Discord-Clone https://ericellb.github.io/React-Discord-Clone",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 200802350,
+                "language": "TypeScript",
+                "last_commit": "2024-01-31T17:03:27Z",
+                "owner": "ericellb",
+                "repo": "React-Discord-Clone",
+                "stars": 479
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rafaelalmeidatk",
+              "description": "discord-react-clone https://rafaelalmeidatk.github.io/discord-react-clone/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173060874,
+                "language": "JavaScript",
+                "last_commit": "2019-12-28T00:30:40Z",
+                "owner": "rafaelalmeidatk",
+                "repo": "discord-react-clone",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sandeep-chahal",
+              "description": "discord-clone https://discordclone.netlify.app/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 235066122,
+                "language": "JavaScript",
+                "last_commit": "2023-05-07T19:32:43Z",
+                "owner": "sandeep-chahal",
+                "repo": "discord-clone",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Discord"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vasurajan",
+              "description": "IMDB-clone-react-redux https://movieapp-react-redux.vasurajan.com/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 301404090,
+                "language": "JavaScript",
+                "last_commit": "2020-10-26T18:15:36Z",
+                "owner": "vasurajan",
+                "repo": "IMDB-clone-react-redux",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React IMDB"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "codebucks27",
+              "description": "devto-clone http://devto-clone-codebucks27.vercel.app/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 344791328,
+                "language": "JavaScript",
+                "last_commit": "2023-02-23T13:48:27Z",
+                "owner": "codebucks27",
+                "repo": "devto-clone",
+                "stars": 61
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Dev"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tacticaltofu",
+              "description": "reddit-clone https://weddit.netlify.app/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 351283279,
+                "language": "JavaScript",
+                "last_commit": "2022-04-03T04:51:15Z",
+                "owner": "puzzlerush",
+                "repo": "reddit-clone",
+                "stars": 201
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Reddit"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "subnub",
+              "description": "myDrive https://mydrive-storage.com/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245013110,
+                "language": "TypeScript",
+                "last_commit": "2025-03-09T01:26:13Z",
+                "owner": "subnub",
+                "repo": "myDrive",
+                "stars": 4227
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Google Drive"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "oldboyxx",
+              "description": "jira_clone https://jira.ivorreic.com/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225252643,
+                "language": "JavaScript",
+                "last_commit": "2024-06-20T03:45:15Z",
+                "owner": "oldboyxx",
+                "repo": "jira_clone",
+                "stars": 11058
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Jira"
+        }
+      ],
+      "title": "React"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "techreagan",
+              "description": "vuetify-youtube-clone-template https://vuetube-clone.netlify.app/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254716200,
+                "language": "Vue",
+                "last_commit": "2024-06-13T16:34:38Z",
+                "owner": "techreagan",
+                "repo": "vuetify-youtube-clone-template",
+                "stars": 224
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lauragift21",
+              "description": "vuetube https://wizardly-curran-0a959e.netlify.com/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131026120,
+                "language": "JavaScript",
+                "last_commit": "2021-03-30T16:34:00Z",
+                "owner": "lauragift21",
+                "repo": "vuetube",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "natalia-fs",
+              "description": "youtube-ui-clone https://youtube-clone-nataliafs.netlify.app/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 295021055,
+                "language": "Vue",
+                "last_commit": "2021-02-16T20:34:39Z",
+                "owner": "natalia-fs",
+                "repo": "youtube-ui-clone",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "vue YouTube"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "uliaaan",
+              "description": "rettiwt https://rettiwt-express-react-redux.herokuapp.com/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156438149,
+                "language": "JavaScript",
+                "last_commit": "2023-01-27T07:40:16Z",
+                "owner": "uliaaan",
+                "repo": "rettiwt",
+                "stars": 55
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vue Twitter"
+        }
+      ],
+      "title": "Vue"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T18:49:24.013Z",
+    "last_updated": "2026-08-24T14:47:42.503Z",
     "original_repository": "MasterBrian99/Awesome-Clone",
     "original_repository_id": 348129957,
     "original_repository_sha": "8b164937fad6cbb0a174337b3c9558b383826a9c",
