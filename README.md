@@ -191,7 +191,7 @@
 
 | Repository owner                        | Repository                                                                                                | Live Link                    | Stars                                                                                                                                                                                                               |
 | --------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [oldboyxx](https://github.com/oldboyxx) | [jira\_clone](https://github.com/oldboyxx/jira_clone) ⭐ 11,058 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 | <https://jira.ivorreic.com/> | [![GitHub stars](https://img.shields.io/github/stars/oldboyxx/jira_clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/oldboyxx/jira_clone) ⭐ 11,058 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 |
+| [oldboyxx](https://github.com/oldboyxx) | [jira\_clone](https://github.com/oldboyxx/jira_clone) ⭐ 11,056 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 | <https://jira.ivorreic.com/> | [![GitHub stars](https://img.shields.io/github/stars/oldboyxx/jira_clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/oldboyxx/jira_clone) ⭐ 11,056 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 |
 
 ***
 
