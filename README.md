@@ -181,7 +181,7 @@
 
 | Repository owner                    | Repository                                                                                      | Live Link                      | Stars                                                                                                                                            |
 | ----------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [subnub](https://github.com/subnub) | [myDrive](https://github.com/subnub/myDrive) ⭐ 4,227 \| 🐛 30 \| 🌐 TypeScript \| 📅 2025-03-09 | <https://mydrive-storage.com/> | [![GitHub stars](https://img.shields.io/github/stars/subnub/myDrive.svg?style=social\&label=Star\&maxAge=2592000)](https://mydrive-storage.com/) |
+| [subnub](https://github.com/subnub) | [myDrive](https://github.com/subnub/myDrive) ⭐ 4,228 \| 🐛 30 \| 🌐 TypeScript \| 📅 2025-03-09 | <https://mydrive-storage.com/> | [![GitHub stars](https://img.shields.io/github/stars/subnub/myDrive.svg?style=social\&label=Star\&maxAge=2592000)](https://mydrive-storage.com/) |
 
 ***
 
@@ -191,7 +191,7 @@
 
 | Repository owner                        | Repository                                                                                                | Live Link                    | Stars                                                                                                                                                                                                               |
 | --------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [oldboyxx](https://github.com/oldboyxx) | [jira\_clone](https://github.com/oldboyxx/jira_clone) ⭐ 11,059 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 | <https://jira.ivorreic.com/> | [![GitHub stars](https://img.shields.io/github/stars/oldboyxx/jira_clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/oldboyxx/jira_clone) ⭐ 11,059 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 |
+| [oldboyxx](https://github.com/oldboyxx) | [jira\_clone](https://github.com/oldboyxx/jira_clone) ⭐ 11,058 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 | <https://jira.ivorreic.com/> | [![GitHub stars](https://img.shields.io/github/stars/oldboyxx/jira_clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/oldboyxx/jira_clone) ⭐ 11,058 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 |
 
 ***
 
@@ -273,4 +273,4 @@ read [contributing.md](contributing.md) before make any changes.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
