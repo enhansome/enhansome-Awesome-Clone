@@ -17,7 +17,7 @@
                 "last_commit": "2022-06-10T14:29:58Z",
                 "owner": "manikandanraji",
                 "repo": "youtubeclone-frontend",
-                "stars": 1426
+                "stars": 1425
               }
             },
             {
@@ -441,7 +441,7 @@
                 "last_commit": "2024-01-31T17:03:27Z",
                 "owner": "ericellb",
                 "repo": "React-Discord-Clone",
-                "stars": 479
+                "stars": 480
               }
             },
             {
@@ -581,7 +581,7 @@
                 "last_commit": "2024-06-20T03:45:15Z",
                 "owner": "oldboyxx",
                 "repo": "jira_clone",
-                "stars": 11056
+                "stars": 11057
               }
             }
           ],
@@ -674,9 +674,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T20:03:47.751Z",
-    "original_repository": "MasterBrian99/Awesome-Clone",
-    "original_repository_id": 348129957,
+    "last_updated": "2026-08-27T11:25:01.571Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 348129957,
+      "language": null,
+      "last_commit": "2022-10-12T11:51:25Z",
+      "owner": "MasterBrian99",
+      "repo": "Awesome-Clone",
+      "stars": 68
+    },
     "original_repository_sha": "8b164937fad6cbb0a174337b3c9558b383826a9c",
     "enhanced_repository": "enhansome/enhansome-Awesome-Clone",
     "enhanced_repository_description": null,
