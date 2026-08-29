@@ -12,12 +12,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Youtube Clone Frontend (React + Redux)",
+                "homepage": null,
                 "id": 277494017,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-06-10T14:29:58Z",
+                "open_issues": 10,
                 "owner": "manikandanraji",
                 "repo": "youtubeclone-frontend",
-                "stars": 1425
+                "stars": 1425,
+                "topics": [
+                  "trilogy",
+                  "youtube"
+                ]
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             },
@@ -28,12 +36,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Youtube clone built in React, Redux, Redux-saga",
+                "homepage": null,
                 "id": 146862159,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-05-13T10:58:23Z",
+                "open_issues": 30,
                 "owner": "jangbl",
                 "repo": "youtube-react",
-                "stars": 571
+                "stars": 571,
+                "topics": [
+                  "create-react-app",
+                  "enzyme",
+                  "javasc",
+                  "jest",
+                  "react",
+                  "react-redux",
+                  "redux-saga",
+                  "reselect",
+                  "semantic-ui",
+                  "semantic-ui-react",
+                  "tutorial",
+                  "youtube",
+                  "youtube-data",
+                  "youtube-data-api",
+                  "youtube-data-api-v3",
+                  "youtube-data-v3"
+                ]
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             },
@@ -44,12 +74,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A clone of the site YouTube built with React and Redux - ongoing project",
+                "homepage": "https://youtube-clone.netlify.com",
                 "id": 150497694,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-01-15T03:45:45Z",
+                "open_issues": 0,
                 "owner": "kevinahn7",
                 "repo": "youtube-clone",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             },
@@ -60,12 +95,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple youtube clone in react.js",
+                "homepage": null,
                 "id": 301492171,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-02-28T13:48:42Z",
+                "open_issues": 4,
                 "owner": "ebinxavier",
                 "repo": "youtube",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "clone-app",
+                  "hacktoberfest",
+                  "reactjs",
+                  "youtube"
+                ]
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             }
@@ -83,12 +128,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Netflix Clone made with React, Redux and Firebase",
+                "homepage": null,
                 "id": 201765210,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-08-14T18:42:54Z",
+                "open_issues": 2,
                 "owner": "darwin619",
                 "repo": "Netflix-Clone",
-                "stars": 126
+                "stars": 126,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             },
@@ -99,12 +149,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Netflix clone created using React. It is built using modern react tools/best practices, such as hooks, context API, and redux toolkit.",
+                "homepage": "https://azazel5.github.io/NetflixClone/",
                 "id": 279451977,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-26T23:47:22Z",
+                "open_issues": 14,
                 "owner": "Azazel5",
                 "repo": "NetflixClone",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             },
@@ -115,12 +170,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Netflix clone with react js {Clever Programmer}",
+                "homepage": "https://netflix-clone-beta-gilt.vercel.app",
                 "id": 282902246,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-06-22T01:26:08Z",
+                "open_issues": 9,
                 "owner": "ariopratomo",
                 "repo": "netflix-clone",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "reactjs",
+                  "reactjs-es7"
+                ]
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             },
@@ -131,12 +194,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Netflix clone using React",
+                "homepage": "http://movies-database.surge.sh/",
                 "id": 162608717,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-11-07T13:10:50Z",
+                "open_issues": 1,
                 "owner": "dmorozin",
                 "repo": "movies-database",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             },
@@ -147,12 +215,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Netflix clone using React, React Router, Recoil and React Query.",
+                "homepage": null,
                 "id": 299529917,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-10-02T06:36:25Z",
+                "open_issues": 0,
                 "owner": "diogo405",
                 "repo": "joeflix",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             }
@@ -170,12 +243,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clone of biggest E-commerce platform using React (Including Stripe Payment Gateway)",
+                "homepage": null,
                 "id": 290830266,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-11-29T17:45:17Z",
+                "open_issues": 0,
                 "owner": "SumitJadiya",
                 "repo": "amazon-clone-react",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             },
@@ -186,12 +264,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Amazon Clone Full Web app. Build with PERN stack. I bulid my own Server or Api For this Project With Node js , Express , Postgress and Client-side build with React  ",
+                "homepage": "https://amazon-clone-pern.netlify.app/",
                 "id": 335397216,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-02-18T09:59:16Z",
+                "open_issues": 0,
                 "owner": "wasim15185",
                 "repo": "Amazon-Clone-PERN-stack",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "expressjs",
+                  "jwt-authentication",
+                  "node-js",
+                  "pern",
+                  "pern-stack",
+                  "postgresql",
+                  "reactjs",
+                  "redux"
+                ]
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             },
@@ -202,12 +294,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A functional amazon clone made with React for educational purposes",
+                "homepage": null,
                 "id": 294100043,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-05-13T07:16:58Z",
+                "open_issues": 1,
                 "owner": "atharvadeosthale",
                 "repo": "amazon-clone",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             }
@@ -225,12 +322,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full-stack clone of Facebook. React/Redux frontend - Ruby on Rails backend",
+                "homepage": null,
                 "id": 143099504,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-02-25T22:58:49Z",
+                "open_issues": 0,
                 "owner": "aidangadberry",
                 "repo": "facenovel",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             },
@@ -241,12 +343,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👍 Minimalist Facebook clone developed using ReactJS",
+                "homepage": "https://matheus-beck.github.io/react-facebook-clone/",
                 "id": 232450762,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-05T04:56:24Z",
+                "open_issues": 19,
                 "owner": "matheus-beck",
                 "repo": "react-facebook-clone",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             },
@@ -257,12 +366,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full Stack - Social Networking platform utilizing Rails, React, PostgresSQL, AWS S3.",
+                "homepage": "https://connectfbclone.herokuapp.com/#/",
                 "id": 135381017,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-07-31T23:15:53Z",
+                "open_issues": 1,
                 "owner": "Meenakshi-Anand",
                 "repo": "Facebook-Clone",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             }
@@ -280,12 +394,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚛️ Twitter clone app with social-github login.",
+                "homepage": "https://github-twitter-41292.firebaseapp.com/",
                 "id": 103395274,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-03-26T19:47:07Z",
+                "open_issues": 41,
                 "owner": "jalbertsr",
                 "repo": "react-twitter-clone",
-                "stars": 145
+                "stars": 145,
+                "topics": [
+                  "babel",
+                  "es6",
+                  "firebase",
+                  "firebase-database",
+                  "github-authentication",
+                  "js",
+                  "jsx",
+                  "react",
+                  "tech",
+                  "twitter",
+                  "twitter-clone",
+                  "twitter-clone-app",
+                  "twitter-clone-reactjs",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             },
@@ -296,12 +430,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fullstack clone of Twitter, created with React, Next.js, Apollo, Node.js, Express, GraphQL, PostgreSQL, and Docker",
+                "homepage": "https://twitter.rafaelalmeidatk.now.sh/",
                 "id": 185002705,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-03-31T11:30:15Z",
+                "open_issues": 10,
                 "owner": "rafaelalmeidatk",
                 "repo": "twitter-fullstack-clone",
-                "stars": 121
+                "stars": 121,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             },
@@ -312,12 +451,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Twitter Clone build in ReactJS and TypeScript",
+                "homepage": null,
                 "id": 277973900,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-08-17T17:15:06Z",
+                "open_issues": 0,
                 "owner": "eltonlazzarin",
                 "repo": "twitter-clone-reactjs",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "clone-app",
+                  "javascript",
+                  "javascript-applications",
+                  "react-app",
+                  "react-sticky-box",
+                  "reactjs",
+                  "styled-components",
+                  "styled-icons",
+                  "twitter-clone-reactjs",
+                  "typescript",
+                  "typescript-application"
+                ]
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             }
@@ -335,12 +491,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Todoist Using React ",
+                "homepage": null,
                 "id": 196885342,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-12-07T17:12:00Z",
+                "open_issues": 22,
                 "owner": "karlhadwen",
                 "repo": "todoist",
-                "stars": 1391
+                "stars": 1391,
+                "topics": [
+                  "custom-hooks",
+                  "firebase",
+                  "react",
+                  "react-context",
+                  "react-hooks",
+                  "react-testing-library",
+                  "todoist"
+                ]
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             }
@@ -358,12 +527,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Fullstack GraphQL Airbnb Clone with React and React Native",
+                "homepage": null,
                 "id": 136923813,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-04-15T05:08:52Z",
+                "open_issues": 23,
                 "owner": "benawad",
                 "repo": "fullstack-graphql-airbnb-clone",
-                "stars": 1696
+                "stars": 1696,
+                "topics": [
+                  "graphql",
+                  "nodejs",
+                  "react-native",
+                  "reactjs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             },
@@ -374,12 +554,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Airbnb clone with React, Redux, and Rails backend. Allows users to sign up, find listings, book a stay and much more!",
+                "homepage": null,
                 "id": 194017798,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-11-06T17:43:40Z",
+                "open_issues": 28,
                 "owner": "mrkchoi",
                 "repo": "airbnb_clone",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             },
@@ -390,12 +575,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Airbnb Clone",
+                "homepage": "https://airbnb-clone-d9325.firebaseapp.com/",
                 "id": 293526646,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-09-07T12:51:28Z",
+                "open_issues": 0,
                 "owner": "Shakib448",
                 "repo": "react-airbnb-clone",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "css3",
+                  "firebase",
+                  "flexbox",
+                  "material-ui",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             },
@@ -406,12 +602,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React/Redux frontend, Rails/PostgreSQL backend single-page web app that lets users search and book rental listings.",
+                "homepage": "http://waterbnbb.herokuapp.com",
                 "id": 194017916,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-19T13:37:00Z",
+                "open_issues": 30,
                 "owner": "selam-weldu",
                 "repo": "airbnb_clone",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             },
@@ -422,12 +623,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Airbnb Clone made using React JS, Firebase and Material UI",
+                "homepage": "https://vistrit-airbnb.web.app/",
                 "id": 309249726,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-11-02T09:29:54Z",
+                "open_issues": 0,
                 "owner": "VistritPandey",
                 "repo": "Airbnb-Clone",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "react"
+                ]
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             },
@@ -438,12 +646,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Airbnb Clone using React JS",
+                "homepage": "https://airbnb-clone-d5975.web.app/",
                 "id": 293240074,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-09-18T15:24:20Z",
+                "open_issues": 0,
                 "owner": "sashitaghimire",
                 "repo": "Airbnb_Clone",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "airbnb-clone",
+                  "firebase",
+                  "hosting",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             }
@@ -461,12 +679,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Discord Clone using React, Node, Express, Socket-IO and Mysql",
+                "homepage": "https://ericellb.github.io/React-Discord-Clone",
                 "id": 200802350,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2024-01-31T17:03:27Z",
+                "open_issues": 15,
                 "owner": "ericellb",
                 "repo": "React-Discord-Clone",
-                "stars": 481
+                "stars": 481,
+                "topics": [
+                  "chat",
+                  "clone",
+                  "discord",
+                  "express",
+                  "messaging",
+                  "nodejs",
+                  "react",
+                  "socket-io",
+                  "typescript",
+                  "webrtc"
+                ]
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             },
@@ -477,12 +711,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Front-end replication of Discord's app made with React",
+                "homepage": null,
                 "id": 173060874,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-12-28T00:30:40Z",
+                "open_issues": 3,
                 "owner": "rafaelalmeidatk",
                 "repo": "discord-react-clone",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "discord",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             },
@@ -493,12 +735,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "discord clone using react.js and firebase",
+                "homepage": null,
                 "id": 235066122,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-05-07T19:32:43Z",
+                "open_issues": 6,
                 "owner": "sandeep-chahal",
                 "repo": "discord-clone",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             }
@@ -516,12 +763,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a light clone of IMDB(online database of information related to films, television programs, home videos, video games, and streaming content online) built using react-redux using external API of \"https://developers.themoviedb.org/4/getting-started/authorization\".",
+                "homepage": "https://movieapp-react-redux.vasurajan.com",
                 "id": 301404090,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-10-26T18:15:36Z",
+                "open_issues": 0,
                 "owner": "vasurajan",
                 "repo": "IMDB-clone-react-redux",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "imdb",
+                  "moviedb-api",
+                  "react",
+                  "redux",
+                  "redux-thunk",
+                  "videos"
+                ]
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             }
@@ -539,12 +798,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "build a Clone with React. Create this awesome devto clone with React using styled-components. Learn to fetch API and render different articles of dev.to",
+                "homepage": "https://devto-clone-codebucks27.vercel.app/",
                 "id": 344791328,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-02-23T13:48:27Z",
+                "open_issues": 0,
                 "owner": "codebucks27",
                 "repo": "devto-clone",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "api",
+                  "clone",
+                  "dev-to",
+                  "devcommunity",
+                  "devto",
+                  "fetch",
+                  "fetch-api",
+                  "react",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             }
@@ -562,12 +836,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full stack reddit clone built with React, Redux, Node.js, Express, and PostgreSQL",
+                "homepage": "https://weddit.netlify.app/",
                 "id": 351283279,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-04-03T04:51:15Z",
+                "open_issues": 3,
                 "owner": "puzzlerush",
                 "repo": "reddit-clone",
-                "stars": 201
+                "stars": 201,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             }
@@ -585,12 +864,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node.js and mongoDB Google Drive Clone",
+                "homepage": null,
                 "id": 245013110,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2025-03-09T01:26:13Z",
+                "open_issues": 30,
                 "owner": "subnub",
                 "repo": "myDrive",
-                "stars": 4228
+                "stars": 4228,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             }
@@ -608,12 +892,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.",
+                "homepage": "http://jira.ivorreic.com",
                 "id": 225252643,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-20T03:45:15Z",
+                "open_issues": 10,
                 "owner": "oldboyxx",
                 "repo": "jira_clone",
-                "stars": 11057
+                "stars": 11057,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             }
@@ -637,12 +926,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A youtube clone template called vuetube built with vue & vuetify",
+                "homepage": "https://vuetube-clone.netlify.app/",
                 "id": 254716200,
                 "language": "Vue",
+                "license": null,
                 "last_commit": "2024-06-13T16:34:38Z",
+                "open_issues": 31,
                 "owner": "techreagan",
                 "repo": "vuetify-youtube-clone-template",
-                "stars": 224
+                "stars": 224,
+                "topics": [
+                  "template",
+                  "vuejs",
+                  "vuetifyjs",
+                  "youtube",
+                  "youtube-clone"
+                ]
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             },
@@ -653,12 +953,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Youtube clone with vuejs",
+                "homepage": "https://wizardly-curran-0a959e.netlify.com/",
                 "id": 131026120,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-03-30T16:34:00Z",
+                "open_issues": 6,
                 "owner": "lauragift21",
                 "repo": "vuetube",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             },
@@ -669,12 +974,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ui Clone da interface web do Youtube, usando Vue e Javascript",
+                "homepage": null,
                 "id": 295021055,
                 "language": "Vue",
+                "license": null,
                 "last_commit": "2021-02-16T20:34:39Z",
+                "open_issues": 0,
                 "owner": "natalia-fs",
                 "repo": "youtube-ui-clone",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             }
@@ -692,12 +1002,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Twitter clone powered by javascript frameworks (MERN, MEVN...)",
+                "homepage": "https://rettiwt-express-react-redux.herokuapp.com/",
                 "id": 156438149,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-27T07:40:16Z",
+                "open_issues": 6,
                 "owner": "uliaaan",
                 "repo": "rettiwt",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "express",
+                  "react",
+                  "redux",
+                  "socket",
+                  "vue",
+                  "vuex"
+                ]
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
             }
@@ -711,15 +1033,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:45:41.657Z",
+    "last_updated": "2026-08-29T05:04:39.611Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of AWESOME clones made with react,vue,svelte",
+      "homepage": null,
       "id": 348129957,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2022-10-12T11:51:25Z",
+      "open_issues": 1,
       "owner": "MasterBrian99",
       "repo": "Awesome-Clone",
-      "stars": 68
+      "stars": 68,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "awesome-readme",
+        "hacktoberfest",
+        "hacktoberfest-accepted",
+        "hacktoberfest-starter",
+        "hacktoberfest2021",
+        "hacktoberfest2022"
+      ]
     },
     "original_repository_sha": "8b164937fad6cbb0a174337b3c9558b383826a9c",
     "enhanced_repository": "enhansome/enhansome-Awesome-Clone",
