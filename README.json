@@ -935,7 +935,7 @@
                 "open_issues": 31,
                 "owner": "techreagan",
                 "repo": "vuetify-youtube-clone-template",
-                "stars": 224,
+                "stars": 225,
                 "topics": [
                   "template",
                   "vuejs",
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T21:03:10.863Z",
+    "last_updated": "2026-09-02T21:04:26.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AWESOME clones made with react,vue,svelte",
