@@ -158,7 +158,7 @@
                 "open_issues": 14,
                 "owner": "Azazel5",
                 "repo": "NetflixClone",
-                "stars": 123,
+                "stars": 124,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
@@ -536,7 +536,7 @@
                 "open_issues": 23,
                 "owner": "benawad",
                 "repo": "fullstack-graphql-airbnb-clone",
-                "stars": 1695,
+                "stars": 1696,
                 "topics": [
                   "graphql",
                   "nodejs",
@@ -688,7 +688,7 @@
                 "open_issues": 15,
                 "owner": "ericellb",
                 "repo": "React-Discord-Clone",
-                "stars": 482,
+                "stars": 481,
                 "topics": [
                   "chat",
                   "clone",
@@ -873,7 +873,7 @@
                 "open_issues": 30,
                 "owner": "subnub",
                 "repo": "myDrive",
-                "stars": 4230,
+                "stars": 4231,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T20:46:47.801Z",
+    "last_updated": "2026-09-05T20:21:55.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AWESOME clones made with react,vue,svelte",
