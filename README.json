@@ -869,7 +869,7 @@
                 "id": 245013110,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2025-03-09T01:26:13Z",
+                "last_commit": "2026-09-11T18:22:26Z",
                 "open_issues": 30,
                 "owner": "subnub",
                 "repo": "myDrive",
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T20:53:07.447Z",
+    "last_updated": "2026-09-11T20:59:09.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AWESOME clones made with react,vue,svelte",
