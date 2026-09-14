@@ -171,7 +171,7 @@
 
 | Repository owner                                | Repository                                                                                                   | Live Link                     | Stars                                                                                                                                                                                                                       |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [tacticaltofu](https://github.com/tacticaltofu) | [reddit-clone](https://github.com/tacticaltofu/reddit-clone) ⭐ 201 \| 🐛 3 \| 🌐 JavaScript \| 📅 2022-04-03 | <https://weddit.netlify.app/> | [![GitHub stars](https://img.shields.io/github/stars/tacticaltofu/reddit-clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/tacticaltofu/reddit-clone) ⭐ 201 \| 🐛 3 \| 🌐 JavaScript \| 📅 2022-04-03 |
+| [tacticaltofu](https://github.com/tacticaltofu) | [reddit-clone](https://github.com/tacticaltofu/reddit-clone) ⭐ 200 \| 🐛 3 \| 🌐 JavaScript \| 📅 2022-04-03 | <https://weddit.netlify.app/> | [![GitHub stars](https://img.shields.io/github/stars/tacticaltofu/reddit-clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/tacticaltofu/reddit-clone) ⭐ 200 \| 🐛 3 \| 🌐 JavaScript \| 📅 2022-04-03 |
 
 ***
 
@@ -191,7 +191,7 @@
 
 | Repository owner                        | Repository                                                                                                | Live Link                    | Stars                                                                                                                                                                                                               |
 | --------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [oldboyxx](https://github.com/oldboyxx) | [jira\_clone](https://github.com/oldboyxx/jira_clone) ⭐ 11,059 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 | <https://jira.ivorreic.com/> | [![GitHub stars](https://img.shields.io/github/stars/oldboyxx/jira_clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/oldboyxx/jira_clone) ⭐ 11,059 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 |
+| [oldboyxx](https://github.com/oldboyxx) | [jira\_clone](https://github.com/oldboyxx/jira_clone) ⭐ 11,057 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 | <https://jira.ivorreic.com/> | [![GitHub stars](https://img.shields.io/github/stars/oldboyxx/jira_clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/oldboyxx/jira_clone) ⭐ 11,057 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 |
 
 ***
 
@@ -273,4 +273,4 @@ read [contributing.md](contributing.md) before make any changes.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
