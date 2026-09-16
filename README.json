@@ -536,7 +536,7 @@
                 "open_issues": 23,
                 "owner": "benawad",
                 "repo": "fullstack-graphql-airbnb-clone",
-                "stars": 1695,
+                "stars": 1694,
                 "topics": [
                   "graphql",
                   "nodejs",
@@ -935,7 +935,7 @@
                 "open_issues": 31,
                 "owner": "techreagan",
                 "repo": "vuetify-youtube-clone-template",
-                "stars": 225,
+                "stars": 224,
                 "topics": [
                   "template",
                   "vuejs",
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T21:22:31.939Z",
+    "last_updated": "2026-09-16T21:19:40.380Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AWESOME clones made with react,vue,svelte",
