@@ -112,7 +112,7 @@
 
 | Repository owner                            | Repository                                                                                          | Live Link | Stars                                                                                                                                                                                                            |
 | ------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [karlhadwen](https://github.com/karlhadwen) | [todoist](https://github.com/karlhadwen/todoist) ⭐ 1,391 \| 🐛 22 \| 🌐 JavaScript \| 📅 2023-12-07 |           | [![GitHub stars](https://img.shields.io/github/stars/karlhadwen/todoist.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/karlhadwen/todoist) ⭐ 1,391 \| 🐛 22 \| 🌐 JavaScript \| 📅 2023-12-07 |
+| [karlhadwen](https://github.com/karlhadwen) | [todoist](https://github.com/karlhadwen/todoist) ⭐ 1,390 \| 🐛 22 \| 🌐 JavaScript \| 📅 2023-12-07 |           | [![GitHub stars](https://img.shields.io/github/stars/karlhadwen/todoist.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/karlhadwen/todoist) ⭐ 1,390 \| 🐛 22 \| 🌐 JavaScript \| 📅 2023-12-07 |
 
 ***
 
@@ -137,7 +137,7 @@
 
 | Repository owner                                      | Repository                                                                                                                   | Live Link                                                | Stars                                                                                                                                                                                                                                          |
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ericellb](https://github.com/ericellb)               | [React-Discord-Clone](https://github.com/ericellb/React-Discord-Clone) ⭐ 483 \| 🐛 15 \| 🌐 TypeScript \| 📅 2024-01-31      | <https://ericellb.github.io/React-Discord-Clone>         | [![GitHub stars](https://img.shields.io/github/stars/ericellb/React-Discord-Clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/ericellb/React-Discord-Clone) ⭐ 483 \| 🐛 15 \| 🌐 TypeScript \| 📅 2024-01-31             |
+| [ericellb](https://github.com/ericellb)               | [React-Discord-Clone](https://github.com/ericellb/React-Discord-Clone) ⭐ 482 \| 🐛 15 \| 🌐 TypeScript \| 📅 2024-01-31      | <https://ericellb.github.io/React-Discord-Clone>         | [![GitHub stars](https://img.shields.io/github/stars/ericellb/React-Discord-Clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/ericellb/React-Discord-Clone) ⭐ 482 \| 🐛 15 \| 🌐 TypeScript \| 📅 2024-01-31             |
 | [rafaelalmeidatk](https://github.com/rafaelalmeidatk) | [discord-react-clone](https://github.com/rafaelalmeidatk/discord-react-clone) ⭐ 45 \| 🐛 3 \| 🌐 JavaScript \| 📅 2019-12-28 | <https://rafaelalmeidatk.github.io/discord-react-clone/> | [![GitHub stars](https://img.shields.io/github/stars/rafaelalmeidatk/discord-react-clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/rafaelalmeidatk/discord-react-clone) ⭐ 45 \| 🐛 3 \| 🌐 JavaScript \| 📅 2019-12-28 |
 | [sandeep-chahal](https://github.com/sandeep-chahal)   | [discord-clone](https://github.com/sandeep-chahal/discord-clone) ⭐ 10 \| 🐛 6 \| 🌐 JavaScript \| 📅 2023-05-07              | <https://discordclone.netlify.app/>                      | [![GitHub stars](https://img.shields.io/github/stars/sandeep-chahal/discord-clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/sandeep-chahal/discord-clone) ⭐ 10 \| 🐛 6 \| 🌐 JavaScript \| 📅 2023-05-07               |
 | [everton-dgn](https://github.com/everton-dgn)         | [clone-discord](https://github.com/everton-dgn/clone-discord)                                                                | <https://lnkd.in/dCb4ZPT>                                | [![GitHub stars](https://img.shields.io/github/stars/everton-dgn/clone-discord.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/everton-dgn/clone-discord)                                                                    |
@@ -191,7 +191,7 @@
 
 | Repository owner                        | Repository                                                                                                | Live Link                    | Stars                                                                                                                                                                                                               |
 | --------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [oldboyxx](https://github.com/oldboyxx) | [jira\_clone](https://github.com/oldboyxx/jira_clone) ⭐ 11,058 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 | <https://jira.ivorreic.com/> | [![GitHub stars](https://img.shields.io/github/stars/oldboyxx/jira_clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/oldboyxx/jira_clone) ⭐ 11,058 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 |
+| [oldboyxx](https://github.com/oldboyxx) | [jira\_clone](https://github.com/oldboyxx/jira_clone) ⭐ 11,057 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 | <https://jira.ivorreic.com/> | [![GitHub stars](https://img.shields.io/github/stars/oldboyxx/jira_clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/oldboyxx/jira_clone) ⭐ 11,057 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 |
 
 ***
 
@@ -251,7 +251,7 @@
 
 [Back To Top ↑](#table-of-contents)
 
-* [30-days-of-react](https://github.com/fullstackreact/30-days-of-react) ⭐ 2,251 | 🐛 157 | 🌐 JavaScript | 📅 2023-10-09
+* [30-days-of-react](https://github.com/fullstackreact/30-days-of-react) ⭐ 2,250 | 🐛 157 | 🌐 JavaScript | 📅 2023-10-09
 
 ## FAQ
 
@@ -273,4 +273,4 @@ read [contributing.md](contributing.md) before make any changes.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
