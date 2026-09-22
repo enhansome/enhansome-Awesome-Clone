@@ -112,7 +112,7 @@
 
 | Repository owner                            | Repository                                                                                          | Live Link | Stars                                                                                                                                                                                                            |
 | ------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [karlhadwen](https://github.com/karlhadwen) | [todoist](https://github.com/karlhadwen/todoist) ⭐ 1,389 \| 🐛 22 \| 🌐 JavaScript \| 📅 2023-12-07 |           | [![GitHub stars](https://img.shields.io/github/stars/karlhadwen/todoist.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/karlhadwen/todoist) ⭐ 1,389 \| 🐛 22 \| 🌐 JavaScript \| 📅 2023-12-07 |
+| [karlhadwen](https://github.com/karlhadwen) | [todoist](https://github.com/karlhadwen/todoist) ⭐ 1,388 \| 🐛 22 \| 🌐 JavaScript \| 📅 2023-12-07 |           | [![GitHub stars](https://img.shields.io/github/stars/karlhadwen/todoist.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/karlhadwen/todoist) ⭐ 1,388 \| 🐛 22 \| 🌐 JavaScript \| 📅 2023-12-07 |
 
 ***
 
@@ -181,7 +181,7 @@
 
 | Repository owner                    | Repository                                                                                      | Live Link                      | Stars                                                                                                                                            |
 | ----------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [subnub](https://github.com/subnub) | [myDrive](https://github.com/subnub/myDrive) ⭐ 4,234 \| 🐛 30 \| 🌐 TypeScript \| 📅 2026-09-11 | <https://mydrive-storage.com/> | [![GitHub stars](https://img.shields.io/github/stars/subnub/myDrive.svg?style=social\&label=Star\&maxAge=2592000)](https://mydrive-storage.com/) |
+| [subnub](https://github.com/subnub) | [myDrive](https://github.com/subnub/myDrive) ⭐ 4,233 \| 🐛 30 \| 🌐 TypeScript \| 📅 2026-09-11 | <https://mydrive-storage.com/> | [![GitHub stars](https://img.shields.io/github/stars/subnub/myDrive.svg?style=social\&label=Star\&maxAge=2592000)](https://mydrive-storage.com/) |
 
 ***
 
@@ -273,4 +273,4 @@ read [contributing.md](contributing.md) before make any changes.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
