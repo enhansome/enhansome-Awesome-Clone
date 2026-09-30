@@ -181,7 +181,7 @@
 
 | Repository owner                    | Repository                                                                                      | Live Link                      | Stars                                                                                                                                            |
 | ----------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [subnub](https://github.com/subnub) | [myDrive](https://github.com/subnub/myDrive) ⭐ 4,234 \| 🐛 30 \| 🌐 TypeScript \| 📅 2026-09-11 | <https://mydrive-storage.com/> | [![GitHub stars](https://img.shields.io/github/stars/subnub/myDrive.svg?style=social\&label=Star\&maxAge=2592000)](https://mydrive-storage.com/) |
+| [subnub](https://github.com/subnub) | [myDrive](https://github.com/subnub/myDrive) ⭐ 4,233 \| 🐛 30 \| 🌐 TypeScript \| 📅 2026-09-11 | <https://mydrive-storage.com/> | [![GitHub stars](https://img.shields.io/github/stars/subnub/myDrive.svg?style=social\&label=Star\&maxAge=2592000)](https://mydrive-storage.com/) |
 
 ***
 
@@ -251,7 +251,7 @@
 
 [Back To Top ↑](#table-of-contents)
 
-* [30-days-of-react](https://github.com/fullstackreact/30-days-of-react) ⭐ 2,249 | 🐛 158 | 🌐 JavaScript | 📅 2023-10-09
+* [30-days-of-react](https://github.com/fullstackreact/30-days-of-react) ⭐ 2,249 | 🐛 157 | 🌐 JavaScript | 📅 2023-10-09
 
 ## FAQ
 
@@ -273,4 +273,4 @@ read [contributing.md](contributing.md) before make any changes.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
