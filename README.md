@@ -1,6 +1,6 @@
 # Awesome-clone with stars
 
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/MasterBrian99/Awesome-Clone) ⭐ 67 | 🐛 1 | 📅 2022-10-12 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Mentioned in Awesome React](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/MasterBrian99/Awesome-Clone) ⭐ 67 | 🐛 1 | 📅 2022-10-12
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/MasterBrian99/Awesome-Clone) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Mentioned in Awesome React](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/MasterBrian99/Awesome-Clone)
 
 ### A curated list of AWESOME clones
 
@@ -191,7 +191,7 @@
 
 | Repository owner                        | Repository                                                                                                | Live Link                    | Stars                                                                                                                                                                                                               |
 | --------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [oldboyxx](https://github.com/oldboyxx) | [jira\_clone](https://github.com/oldboyxx/jira_clone) ⭐ 11,056 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 | <https://jira.ivorreic.com/> | [![GitHub stars](https://img.shields.io/github/stars/oldboyxx/jira_clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/oldboyxx/jira_clone) ⭐ 11,056 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 |
+| [oldboyxx](https://github.com/oldboyxx) | [jira\_clone](https://github.com/oldboyxx/jira_clone) ⭐ 11,055 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 | <https://jira.ivorreic.com/> | [![GitHub stars](https://img.shields.io/github/stars/oldboyxx/jira_clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/oldboyxx/jira_clone) ⭐ 11,055 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 |
 
 ***
 
@@ -273,4 +273,4 @@ read [contributing.md](contributing.md) before make any changes.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
