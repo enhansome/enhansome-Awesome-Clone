@@ -161,7 +161,7 @@
 
 | Repository owner                              | Repository                                                                                               | Live Link                                    | Stars                                                                                                                                                                                                                  |
 | --------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [codebucks27](https://github.com/codebucks27) | [devto-clone](https://github.com/codebucks27/devto-clone) ⭐ 61 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-02-23 | <http://devto-clone-codebucks27.vercel.app/> | [![GitHub stars](https://img.shields.io/github/stars/codebucks27/devto-clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/codebucks27/devto-clone) ⭐ 61 \| 🐛 0 \| 🌐 JavaScript \| 📅 2023-02-23 |
+| [codebucks27](https://github.com/codebucks27) | [devto-clone](https://github.com/codebucks27/devto-clone) ⭐ 61 \| 🐛 1 \| 🌐 JavaScript \| 📅 2026-10-04 | <http://devto-clone-codebucks27.vercel.app/> | [![GitHub stars](https://img.shields.io/github/stars/codebucks27/devto-clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/codebucks27/devto-clone) ⭐ 61 \| 🐛 1 \| 🌐 JavaScript \| 📅 2026-10-04 |
 
 ***
 
@@ -191,7 +191,7 @@
 
 | Repository owner                        | Repository                                                                                                | Live Link                    | Stars                                                                                                                                                                                                               |
 | --------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [oldboyxx](https://github.com/oldboyxx) | [jira\_clone](https://github.com/oldboyxx/jira_clone) ⭐ 11,054 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 | <https://jira.ivorreic.com/> | [![GitHub stars](https://img.shields.io/github/stars/oldboyxx/jira_clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/oldboyxx/jira_clone) ⭐ 11,054 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 |
+| [oldboyxx](https://github.com/oldboyxx) | [jira\_clone](https://github.com/oldboyxx/jira_clone) ⭐ 11,055 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 | <https://jira.ivorreic.com/> | [![GitHub stars](https://img.shields.io/github/stars/oldboyxx/jira_clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/oldboyxx/jira_clone) ⭐ 11,055 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 |
 
 ***
 
@@ -273,4 +273,4 @@ read [contributing.md](contributing.md) before make any changes.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

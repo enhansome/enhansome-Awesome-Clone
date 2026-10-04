@@ -803,8 +803,8 @@
                 "id": 344791328,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2023-02-23T13:48:27Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-04T19:11:00Z",
+                "open_issues": 1,
                 "owner": "codebucks27",
                 "repo": "devto-clone",
                 "stars": 61,
@@ -901,7 +901,7 @@
                 "open_issues": 10,
                 "owner": "oldboyxx",
                 "repo": "jira_clone",
-                "stars": 11054,
+                "stars": 11055,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T21:17:23.283Z",
+    "last_updated": "2026-10-04T21:26:54.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AWESOME clones made with react,vue,svelte",
