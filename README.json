@@ -536,7 +536,7 @@
                 "open_issues": 23,
                 "owner": "benawad",
                 "repo": "fullstack-graphql-airbnb-clone",
-                "stars": 1693,
+                "stars": 1694,
                 "topics": [
                   "graphql",
                   "nodejs",
@@ -563,7 +563,7 @@
                 "open_issues": 28,
                 "owner": "mrkchoi",
                 "repo": "airbnb_clone",
-                "stars": 86,
+                "stars": 85,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
@@ -803,8 +803,8 @@
                 "id": 344791328,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-04T19:11:00Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-05T06:20:16Z",
+                "open_issues": 0,
                 "owner": "codebucks27",
                 "repo": "devto-clone",
                 "stars": 61,
@@ -873,7 +873,7 @@
                 "open_issues": 30,
                 "owner": "subnub",
                 "repo": "myDrive",
-                "stars": 4232,
+                "stars": 4231,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T21:26:54.433Z",
+    "last_updated": "2026-10-06T00:04:25.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AWESOME clones made with react,vue,svelte",
