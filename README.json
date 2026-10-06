@@ -563,7 +563,7 @@
                 "open_issues": 28,
                 "owner": "mrkchoi",
                 "repo": "airbnb_clone",
-                "stars": 85,
+                "stars": 86,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
@@ -901,7 +901,7 @@
                 "open_issues": 10,
                 "owner": "oldboyxx",
                 "repo": "jira_clone",
-                "stars": 11055,
+                "stars": 11056,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T00:04:25.224Z",
+    "last_updated": "2026-10-06T10:27:07.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AWESOME clones made with react,vue,svelte",
