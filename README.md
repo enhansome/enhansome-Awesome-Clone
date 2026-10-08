@@ -191,7 +191,7 @@
 
 | Repository owner                        | Repository                                                                                                | Live Link                    | Stars                                                                                                                                                                                                               |
 | --------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [oldboyxx](https://github.com/oldboyxx) | [jira\_clone](https://github.com/oldboyxx/jira_clone) ⭐ 11,056 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 | <https://jira.ivorreic.com/> | [![GitHub stars](https://img.shields.io/github/stars/oldboyxx/jira_clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/oldboyxx/jira_clone) ⭐ 11,056 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 |
+| [oldboyxx](https://github.com/oldboyxx) | [jira\_clone](https://github.com/oldboyxx/jira_clone) ⭐ 11,059 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 | <https://jira.ivorreic.com/> | [![GitHub stars](https://img.shields.io/github/stars/oldboyxx/jira_clone.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/oldboyxx/jira_clone) ⭐ 11,059 \| 🐛 10 \| 🌐 JavaScript \| 📅 2024-06-20 |
 
 ***
 
@@ -203,7 +203,7 @@
 
 | Repository owner                            | Repository                                                                                                 | Live Link                          | Stars                                                                                                                                                                                                                   |
 | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [calebnance](https://github.com/calebnance) | [expo-spotify](https://github.com/calebnance/expo-spotify) ⭐ 614 \| 🐛 6 \| 🌐 JavaScript \| 📅 2023-04-05 | <https://expo-spotify.vercel.app/> | [![GitHub stars](https://img.shields.io/github/stars/calebnance/expo-spotify.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/calebnance/expo-spotify) ⭐ 614 \| 🐛 6 \| 🌐 JavaScript \| 📅 2023-04-05 |
+| [calebnance](https://github.com/calebnance) | [expo-spotify](https://github.com/calebnance/expo-spotify) ⭐ 615 \| 🐛 6 \| 🌐 JavaScript \| 📅 2023-04-05 | <https://expo-spotify.vercel.app/> | [![GitHub stars](https://img.shields.io/github/stars/calebnance/expo-spotify.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/calebnance/expo-spotify) ⭐ 615 \| 🐛 6 \| 🌐 JavaScript \| 📅 2023-04-05 |
 
 ***
 
@@ -273,4 +273,4 @@ read [contributing.md](contributing.md) before make any changes.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
