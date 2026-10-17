@@ -500,7 +500,7 @@
                 "open_issues": 22,
                 "owner": "karlhadwen",
                 "repo": "todoist",
-                "stars": 1388,
+                "stars": 1387,
                 "topics": [
                   "custom-hooks",
                   "firebase",
@@ -688,7 +688,7 @@
                 "open_issues": 15,
                 "owner": "ericellb",
                 "repo": "React-Discord-Clone",
-                "stars": 482,
+                "stars": 481,
                 "topics": [
                   "chat",
                   "clone",
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T21:10:30.111Z",
+    "last_updated": "2026-10-17T20:37:49.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AWESOME clones made with react,vue,svelte",
