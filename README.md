@@ -203,7 +203,7 @@
 
 | Repository owner                            | Repository                                                                                                 | Live Link                          | Stars                                                                                                                                                                                                                   |
 | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [calebnance](https://github.com/calebnance) | [expo-spotify](https://github.com/calebnance/expo-spotify) ⭐ 615 \| 🐛 6 \| 🌐 JavaScript \| 📅 2023-04-05 | <https://expo-spotify.vercel.app/> | [![GitHub stars](https://img.shields.io/github/stars/calebnance/expo-spotify.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/calebnance/expo-spotify) ⭐ 615 \| 🐛 6 \| 🌐 JavaScript \| 📅 2023-04-05 |
+| [calebnance](https://github.com/calebnance) | [expo-spotify](https://github.com/calebnance/expo-spotify) ⭐ 616 \| 🐛 6 \| 🌐 JavaScript \| 📅 2023-04-05 | <https://expo-spotify.vercel.app/> | [![GitHub stars](https://img.shields.io/github/stars/calebnance/expo-spotify.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/calebnance/expo-spotify) ⭐ 616 \| 🐛 6 \| 🌐 JavaScript \| 📅 2023-04-05 |
 
 ***
 
@@ -273,4 +273,4 @@ read [contributing.md](contributing.md) before make any changes.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
