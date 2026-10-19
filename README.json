@@ -901,7 +901,7 @@
                 "open_issues": 10,
                 "owner": "oldboyxx",
                 "repo": "jira_clone",
-                "stars": 11063,
+                "stars": 11062,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T20:44:51.811Z",
+    "last_updated": "2026-10-19T22:22:15.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AWESOME clones made with react,vue,svelte",
