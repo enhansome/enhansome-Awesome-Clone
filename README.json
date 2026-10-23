@@ -45,7 +45,7 @@
                 "open_issues": 30,
                 "owner": "jangbl",
                 "repo": "youtube-react",
-                "stars": 571,
+                "stars": 570,
                 "topics": [
                   "create-react-app",
                   "enzyme",
@@ -688,7 +688,7 @@
                 "open_issues": 15,
                 "owner": "ericellb",
                 "repo": "React-Discord-Clone",
-                "stars": 482,
+                "stars": 483,
                 "topics": [
                   "chat",
                   "clone",
@@ -901,7 +901,7 @@
                 "open_issues": 10,
                 "owner": "oldboyxx",
                 "repo": "jira_clone",
-                "stars": 11066,
+                "stars": 11065,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T21:37:06.976Z",
+    "last_updated": "2026-10-23T21:25:30.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AWESOME clones made with react,vue,svelte",
