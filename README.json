@@ -158,7 +158,7 @@
                 "open_issues": 14,
                 "owner": "Azazel5",
                 "repo": "NetflixClone",
-                "stars": 126,
+                "stars": 127,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
@@ -873,7 +873,7 @@
                 "open_issues": 30,
                 "owner": "subnub",
                 "repo": "myDrive",
-                "stars": 4228,
+                "stars": 4227,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T20:51:20.777Z",
+    "last_updated": "2026-10-25T20:52:06.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AWESOME clones made with react,vue,svelte",
