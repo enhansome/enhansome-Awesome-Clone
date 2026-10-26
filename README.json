@@ -21,7 +21,7 @@
                 "open_issues": 10,
                 "owner": "manikandanraji",
                 "repo": "youtubeclone-frontend",
-                "stars": 1423,
+                "stars": 1422,
                 "topics": [
                   "trilogy",
                   "youtube"
@@ -720,7 +720,7 @@
                 "open_issues": 3,
                 "owner": "rafaelalmeidatk",
                 "repo": "discord-react-clone",
-                "stars": 45,
+                "stars": 44,
                 "topics": [
                   "discord",
                   "react"
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T20:52:06.429Z",
+    "last_updated": "2026-10-26T22:40:54.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AWESOME clones made with react,vue,svelte",
