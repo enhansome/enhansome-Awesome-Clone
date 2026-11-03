@@ -873,7 +873,7 @@
                 "open_issues": 31,
                 "owner": "subnub",
                 "repo": "myDrive",
-                "stars": 4227,
+                "stars": 4229,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
@@ -901,7 +901,7 @@
                 "open_issues": 10,
                 "owner": "oldboyxx",
                 "repo": "jira_clone",
-                "stars": 11067,
+                "stars": 11065,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T00:59:01.772Z",
+    "last_updated": "2026-11-03T23:24:31.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AWESOME clones made with react,vue,svelte",
