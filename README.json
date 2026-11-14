@@ -500,7 +500,7 @@
                 "open_issues": 22,
                 "owner": "karlhadwen",
                 "repo": "todoist",
-                "stars": 1388,
+                "stars": 1389,
                 "topics": [
                   "custom-hooks",
                   "firebase",
@@ -873,7 +873,7 @@
                 "open_issues": 31,
                 "owner": "subnub",
                 "repo": "myDrive",
-                "stars": 4228,
+                "stars": 4226,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:41.657Z"
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T23:35:29.754Z",
+    "last_updated": "2026-11-14T22:25:41.498Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AWESOME clones made with react,vue,svelte",
