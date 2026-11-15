@@ -500,7 +500,7 @@
                 "open_issues": 22,
                 "owner": "karlhadwen",
                 "repo": "todoist",
-                "stars": 1389,
+                "stars": 1390,
                 "topics": [
                   "custom-hooks",
                   "firebase",
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T22:25:41.498Z",
+    "last_updated": "2026-11-15T22:49:30.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AWESOME clones made with react,vue,svelte",

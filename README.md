@@ -112,7 +112,7 @@
 
 | Repository owner                            | Repository                                                                                          | Live Link | Stars                                                                                                                                                                                                            |
 | ------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [karlhadwen](https://github.com/karlhadwen) | [todoist](https://github.com/karlhadwen/todoist) ⭐ 1,389 \| 🐛 22 \| 🌐 JavaScript \| 📅 2023-12-07 |           | [![GitHub stars](https://img.shields.io/github/stars/karlhadwen/todoist.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/karlhadwen/todoist) ⭐ 1,389 \| 🐛 22 \| 🌐 JavaScript \| 📅 2023-12-07 |
+| [karlhadwen](https://github.com/karlhadwen) | [todoist](https://github.com/karlhadwen/todoist) ⭐ 1,390 \| 🐛 22 \| 🌐 JavaScript \| 📅 2023-12-07 |           | [![GitHub stars](https://img.shields.io/github/stars/karlhadwen/todoist.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/karlhadwen/todoist) ⭐ 1,390 \| 🐛 22 \| 🌐 JavaScript \| 📅 2023-12-07 |
 
 ***
 
@@ -251,7 +251,7 @@
 
 [Back To Top ↑](#table-of-contents)
 
-* [30-days-of-react](https://github.com/fullstackreact/30-days-of-react) ⭐ 2,246 | 🐛 157 | 🌐 JavaScript | 📅 2023-10-09
+* [30-days-of-react](https://github.com/fullstackreact/30-days-of-react) ⭐ 2,245 | 🐛 157 | 🌐 JavaScript | 📅 2023-10-09
 
 ## FAQ
 
@@ -273,4 +273,4 @@ read [contributing.md](contributing.md) before make any changes.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
