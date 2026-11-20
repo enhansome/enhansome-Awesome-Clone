@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T00:36:59.909Z",
+    "last_updated": "2026-11-20T23:59:19.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AWESOME clones made with react,vue,svelte",
@@ -1045,7 +1045,7 @@
       "open_issues": 1,
       "owner": "MasterBrian99",
       "repo": "Awesome-Clone",
-      "stars": 67,
+      "stars": 68,
       "topics": [
         "awesome",
         "awesome-list",
