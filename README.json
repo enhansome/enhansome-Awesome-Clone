@@ -45,7 +45,7 @@
                 "open_issues": 30,
                 "owner": "jangbl",
                 "repo": "youtube-react",
-                "stars": 570,
+                "stars": 568,
                 "topics": [
                   "create-react-app",
                   "enzyme",
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T01:47:00.838Z",
+    "last_updated": "2026-11-27T01:44:32.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AWESOME clones made with react,vue,svelte",
